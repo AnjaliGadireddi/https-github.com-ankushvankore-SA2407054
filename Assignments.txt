@@ -1,0 +1,6 @@
+THEASE ASSIGNMENTS ARE ONLY FOR YOUR REFERENCE AND PRACTICE. NO NEED TO UPLOAD THESE ASSIGNMENTS ANYWHERE.
+
+
+1. Check the implementation of getPageSource() method
+2. Open https://www.echotrak.com/Login.aspx?ReturnUrl=%2f and try to login with id, name and className locator (Create 3 different classes respectvely for id, name and className)
+3. Open facebook.com & try login with valid user name and invalid password. USE LOCATOR - CLASSNAME
