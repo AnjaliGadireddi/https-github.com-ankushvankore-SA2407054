@@ -4,3 +4,12 @@ THEASE ASSIGNMENTS ARE ONLY FOR YOUR REFERENCE AND PRACTICE. NO NEED TO UPLOAD T
 1. Check the implementation of getPageSource() method
 2. Open https://www.echotrak.com/Login.aspx?ReturnUrl=%2f and try to login with id, name and className locator (Create 3 different classes respectvely for id, name and className)
 3. Open facebook.com & try login with valid user name and invalid password. USE LOCATOR - CLASSNAME
+4. Find the usage of # and . in CssSelector
+5. Open https://register.rediff.com/register/register.php?FormName=user_details and fill following text boxes using CssSelector
+	a. Full Name
+	b. Choose a rediffid
+	c. Password
+	d. Retype password
+	e. Alternate email id
+	f. Mobile no
+6. Open https://www.echotrak.com/Login.aspx?ReturnUrl=%2f try login with absolute xpath. Show the error message as well.
