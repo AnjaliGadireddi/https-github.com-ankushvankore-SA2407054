@@ -33,3 +33,19 @@ THEASE ASSIGNMENTS ARE ONLY FOR YOUR REFERENCE AND PRACTICE. NO NEED TO UPLOAD T
 	f. Click on Date 30
 	g. Click on Search Buses button
 	h. Display the name of 1st Bus from the list
+12. Open https://dash.bling-center.com/platform/signIn.html 
+	a. Click on forgot password
+	b. Enter email id
+	c. Click on Reset Password
+	d. Display the messages (in green color)
+13. Open https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+	a. Enter user name as admin
+	b. Enter password as admin123
+	c. Click on Login
+	d. IF LOGIN GET SUCCESSFULL THEN 
+	e. Click on down arrow next to the name
+	f. Click on logout 
+14. Open https://omayo.blogspot.com/
+	a. Click on Check This button (At the end of page)
+	b. Using ExplicitWait wait for some time and then
+	c. Select the Mr. Option checkbox
