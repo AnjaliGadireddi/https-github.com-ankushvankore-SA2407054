@@ -37,6 +37,13 @@ public class D18HandlingDropdownList {
 		//countries.selectByValue("103");
 		countries.selectByIndex(100);
 		System.out.println("Selected Country: " + countries.getFirstSelectedOption().getText());
+		
+		//WebElement bDay = driver.findElement(By.xpath("//*[@id=\"tblcrtac\"]/tbody/tr[22]/td[3]/select[1]"));
+		//Select dayDD = new Select(bDay);
+		Select dayDD = new Select(driver.findElement(By.xpath("//*[@id=\"tblcrtac\"]/tbody/tr[22]/td[3]/select[1]")));
+		dayDD.selectByVisibleText("29");
+		
+		new Select(driver.findElement(By.xpath("//*[@id=\"tblcrtac\"]/tbody/tr[22]/td[3]/select[2]"))).selectByVisibleText("JAN");
 	}
 
 }
