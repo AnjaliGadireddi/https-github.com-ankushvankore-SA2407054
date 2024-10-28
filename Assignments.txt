@@ -95,3 +95,10 @@ THEASE ASSIGNMENTS ARE ONLY FOR YOUR REFERENCE AND PRACTICE. NO NEED TO UPLOAD T
 	c. Display count of N, W & L
 	Display the result as follows
 	KKR	NNWWW	N-2, W-3, L-0
+20. Open https://istqb.in/
+	a. Hover the mouse on Specilist menu
+	b. Display all the sub menus.
+21. Open https://asana.com/
+	a. Try clicing on Log in
+22. Open https://www.fitpeo.com/revenue-calculator
+	a. Try entering 1000 in the text box
