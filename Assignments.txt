@@ -102,3 +102,6 @@ THEASE ASSIGNMENTS ARE ONLY FOR YOUR REFERENCE AND PRACTICE. NO NEED TO UPLOAD T
 	a. Try clicing on Log in
 22. Open https://www.fitpeo.com/revenue-calculator
 	a. Try entering 1000 in the text box
+23. Open https://www.jotform.com/form-templates/exam-registration-form
+	a. Complete the registration form
+	b. Click on Submit button
