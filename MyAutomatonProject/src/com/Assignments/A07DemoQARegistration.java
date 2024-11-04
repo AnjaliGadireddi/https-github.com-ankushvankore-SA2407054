@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class A07DemoQARegistration {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws InterruptedException {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
@@ -21,6 +21,12 @@ public class A07DemoQARegistration {
 		
 		driver.findElement(By.id("dateOfBirthInput")).sendKeys(Keys.CONTROL + "A");
 		driver.findElement(By.id("dateOfBirthInput")).sendKeys("29 Jan 1979");
+		
+		js.executeScript("window.scrollBy(0, 500)", "");
+		
+		driver.findElement(By.id("subjectsInput")).sendKeys("H");
+		driver.findElement(By.xpath("//*[@id=\"react-select-2-option-0\"]")).click();
+		Thread.sleep(5000);
 		
 		js.executeScript("window.scrollBy(0, 500)", "");
 		

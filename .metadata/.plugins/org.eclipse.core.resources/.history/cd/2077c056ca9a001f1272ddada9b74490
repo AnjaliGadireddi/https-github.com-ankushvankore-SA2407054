@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "MySuite" parallel = "methods" thread-count = "2">
+	<test name = "My Test">
+		<classes>
+			<class name = "com.TestNGDemos.">
+			</class>
+		</classes>
+	</test>
+</suite>

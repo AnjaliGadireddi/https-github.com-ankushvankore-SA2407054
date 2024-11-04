@@ -2,28 +2,40 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-30T22:16:07 IST" name="Default suite" finished-at="2024-10-30T22:16:19 IST" duration-ms="11262">
+  <suite started-at="2024-11-04T22:17:48 IST" name="MySuite" finished-at="2024-11-04T22:18:00 IST" duration-ms="11848">
     <groups>
     </groups>
-    <test started-at="2024-10-30T22:16:07 IST" name="Default test" finished-at="2024-10-30T22:16:19 IST" duration-ms="11262">
-      <class name="com.Assignments.A10OHRM_Login_Logout">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.Assignments.A10OHRM_Login_Logout@68c9d179]" started-at="2024-10-30T22:16:07 IST" name="beforeTest" finished-at="2024-10-30T22:16:14 IST" duration-ms="6848" status="PASS">
+    <test started-at="2024-11-04T22:17:48 IST" name="My Test" finished-at="2024-11-04T22:18:00 IST" duration-ms="11848">
+      <class name="com.TestNGDemos.D07Parameterization">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.TestNGDemos.D07Parameterization@55cb6996]" started-at="2024-11-04T22:17:48 IST" name="beforeTest" finished-at="2024-11-04T22:17:53 IST" duration-ms="5305" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="login3()[pri:0, instance:com.Assignments.A10OHRM_Login_Logout@68c9d179]" started-at="2024-10-30T22:16:14 IST" name="login3" finished-at="2024-10-30T22:16:16 IST" duration-ms="2049" status="PASS">
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:com.TestNGDemos.D07Parameterization@55cb6996]" started-at="2024-11-04T22:17:53 IST" name="login" finished-at="2024-11-04T22:17:57 IST" duration-ms="3423" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[practice]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SuperSecretPassword!]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- login3 -->
-        <test-method is-config="true" signature="logout()[pri:0, instance:com.Assignments.A10OHRM_Login_Logout@68c9d179]" started-at="2024-10-30T22:16:16 IST" name="logout" finished-at="2024-10-30T22:16:18 IST" duration-ms="1859" status="PASS">
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.TestNGDemos.D07Parameterization@55cb6996]" started-at="2024-11-04T22:17:57 IST" name="afterMethod" finished-at="2024-11-04T22:17:59 IST" duration-ms="2181" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- logout -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.Assignments.A10OHRM_Login_Logout@68c9d179]" started-at="2024-10-30T22:16:18 IST" name="afterTest" finished-at="2024-10-30T22:16:19 IST" duration-ms="359" status="PASS">
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.TestNGDemos.D07Parameterization@55cb6996]" started-at="2024-11-04T22:17:59 IST" name="afterTest" finished-at="2024-11-04T22:18:00 IST" duration-ms="735" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-      </class> <!-- com.Assignments.A10OHRM_Login_Logout -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- com.TestNGDemos.D07Parameterization -->
+    </test> <!-- My Test -->
+  </suite> <!-- MySuite -->
 </testng-results>

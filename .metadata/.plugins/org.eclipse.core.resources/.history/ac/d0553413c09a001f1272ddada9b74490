@@ -1,0 +1,9 @@
+package com.TestNGDemos;
+
+import org.testng.annotations.Test;
+
+public class A07AssertionDemo {
+  @Test
+  public void f() {
+  }
+}
