@@ -1,0 +1,21 @@
+package com.TestNGDemos;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+
+public class RediffSignIn {
+	WebDriver driver;
+	
+	public void clickOnSignInLink()
+	{
+		driver.findElement(By.partialLinkText("Sign")).click();
+	}
+	public void enterUserName(String un)
+	{
+		driver.findElement(By.id("login1")).sendKeys(un);
+	}
+	public void submit()
+	{
+		driver.findElement(By.name("proceed")).click();
+	}
+}
