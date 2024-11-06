@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.TestNGDemos.D10RediffSignIn_Client">
+      <class name="com.TestNGDemos.D15DDF_LoginToOHRM">
         <methods>
+          <include name="afterMethod"/>
+          <include name="login"/>
           <include name="beforeTest"/>
-          <include name="rediffSignIn"/>
           <include name="afterTest"/>
         </methods>
-      </class> <!-- com.TestNGDemos.D10RediffSignIn_Client -->
+      </class> <!-- com.TestNGDemos.D15DDF_LoginToOHRM -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

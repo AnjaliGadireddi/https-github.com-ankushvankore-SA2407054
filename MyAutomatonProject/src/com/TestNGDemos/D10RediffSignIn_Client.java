@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 
 public class D10RediffSignIn_Client {
-	public static WebDriver Rdriver;
+	WebDriver driver;
 	RediffSignIn r1;
 	
 	@Test
@@ -23,17 +23,17 @@ public class D10RediffSignIn_Client {
 
 	@BeforeTest
 	public void beforeTest() {
-		Rdriver = new ChromeDriver();
-		Rdriver.manage().window().maximize();
-		Rdriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-		Rdriver.get("https://www.rediff.com/");
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		driver.get("https://www.rediff.com/");
 		
-		r1 = new RediffSignIn(Rdriver);
+		r1 = new RediffSignIn(driver);
 	}
 
 	@AfterTest
 	public void afterTest() {
-		Rdriver.close();
+		driver.close();
 	}
 
 }

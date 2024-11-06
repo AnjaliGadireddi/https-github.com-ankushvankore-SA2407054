@@ -10,6 +10,7 @@ import org.openqa.selenium.support.PageFactory;
 public class RediffSignIn {
 	WebDriver driver;
 	
+	//Object Repository
 	@FindBy (partialLinkText = "Sign") WebElement signInLink;
 	@FindBy (id = "login1") WebElement userNameTextBox;
 	
