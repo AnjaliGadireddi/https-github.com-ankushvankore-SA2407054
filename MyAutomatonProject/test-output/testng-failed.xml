@@ -5,8 +5,8 @@
     <classes>
       <class name="com.TestNGDemos.D15DDF_LoginToOHRM">
         <methods>
-          <include name="afterMethod"/>
-          <include name="login"/>
+          <include name="logout"/>
+          <include name="login" invocation-numbers="0 1 3 5 6 7"/>
           <include name="beforeTest"/>
           <include name="afterTest"/>
         </methods>

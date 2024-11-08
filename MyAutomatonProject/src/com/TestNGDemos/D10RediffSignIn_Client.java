@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 
 public class D10RediffSignIn_Client {
-	WebDriver driver;
+	private WebDriver driver;
 	RediffSignIn r1;
 	
 	@Test
