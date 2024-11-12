@@ -112,7 +112,7 @@ public class D06TestNG_ExtentReport {
 
 	@AfterTest
 	public void afterTest() {
-		//driver.close();
+		driver.close();
 		report.flush();
 	}
 
