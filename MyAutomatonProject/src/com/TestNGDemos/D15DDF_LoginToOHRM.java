@@ -7,8 +7,12 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.time.Duration;
+import java.util.concurrent.TimeUnit;
 
+import org.apache.poi.hssf.util.HSSFColor.HSSFColorPredefined;
 import org.apache.poi.xssf.usermodel.XSSFCell;
+import org.apache.poi.xssf.usermodel.XSSFCellStyle;
+import org.apache.poi.xssf.usermodel.XSSFFont;
 import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
@@ -30,6 +34,8 @@ public class D15DDF_LoginToOHRM {
 	XSSFSheet sheet;
 	XSSFRow row;
 	XSSFCell cell;
+	XSSFCellStyle style;
+	XSSFFont font;
 	int index = 1;
 	
 	WebDriver driver;
@@ -45,21 +51,37 @@ public class D15DDF_LoginToOHRM {
 	}
 	@AfterMethod
 	public void logout() {
+		
 		//Checking the result and updating the status column in the excel file
 		//row = sheet.getRow(index);
 		//cell = row.getCell(2);
 		cell = sheet.getRow(index).getCell(2);
+		
+		style = wb.createCellStyle();
+		font = wb.createFont();
 		
 		if(driver.getCurrentUrl().contains("dashboard"))
 		{
 			driver.findElement(By.xpath("//*[@id=\"app\"]/div[1]/div[1]/header/div[1]/div[3]/ul/li/span/i")).click();
 			driver.findElement(By.partialLinkText("Log")).click();
 			System.out.println("Login successful");
+			
+			font.setColor(HSSFColorPredefined.GREEN.getIndex());
+			font.setBold(true);
+			style.setFont(font);
+			cell.setCellStyle(style);
+			
 			cell.setCellValue("Pass");
 		}
 		else
 		{
 			System.out.println("Invalid credentials");
+			
+			font.setColor(HSSFColorPredefined.RED.getIndex());
+			font.setItalic(true);
+			style.setFont(font);
+			cell.setCellStyle(style);
+			
 			cell.setCellValue("Fail");
 		}
 		index++;
@@ -92,9 +114,12 @@ public class D15DDF_LoginToOHRM {
 		
 		fos = new FileOutputStream(file);	//To avoid currepting the file initilize fos after sheet
 		
+		//System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
+		
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		//driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");;
 	}
 

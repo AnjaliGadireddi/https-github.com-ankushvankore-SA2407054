@@ -2,31 +2,20 @@
 <testng-results ignored="0" total="3" passed="1" failed="1" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-11T21:29:24 IST" name="Default suite" finished-at="2024-11-11T21:29:39 IST" duration-ms="14695">
+  <suite started-at="2024-11-15T21:57:21 IST" name="Default suite" finished-at="2024-11-15T21:57:21 IST" duration-ms="344">
     <groups>
     </groups>
-    <test started-at="2024-11-11T21:29:24 IST" name="Default test" finished-at="2024-11-11T21:29:39 IST" duration-ms="14695">
-      <class name="com.MyTests.D06TestNG_ExtentReport">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.MyTests.D06TestNG_ExtentReport@5c80cf32]" started-at="2024-11-11T21:29:24 IST" name="beforeTest" finished-at="2024-11-11T21:29:31 IST" duration-ms="6715" status="PASS">
+    <test started-at="2024-11-15T21:57:21 IST" name="Default test" finished-at="2024-11-15T21:57:21 IST" duration-ms="344">
+      <class name="com.MyTests.D07ListnersDemo">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.MyTests.D07ListnersDemo@4bdeaabb]" started-at="2024-11-15T21:57:21 IST" name="beforeTest" finished-at="2024-11-15T21:57:21 IST" duration-ms="93" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="loginToOHRM_Success()[pri:1, instance:com.MyTests.D06TestNG_ExtentReport@5c80cf32]" started-at="2024-11-11T21:29:31 IST" name="loginToOHRM_Success" finished-at="2024-11-11T21:29:36 IST" duration-ms="5202" status="PASS">
+        <test-method signature="testCase1()[pri:0, instance:com.MyTests.D07ListnersDemo@4bdeaabb]" started-at="2024-11-15T21:57:21 IST" name="testCase1" finished-at="2024-11-15T21:57:21 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginToOHRM_Success -->
-        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.MyTests.D06TestNG_ExtentReport@5c80cf32]" started-at="2024-11-11T21:29:36 IST" name="afterMethod" finished-at="2024-11-11T21:29:36 IST" duration-ms="27" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=loginToOHRM_Success status=SUCCESS method=D06TestNG_ExtentReport.loginToOHRM_Success()[pri:1, instance:com.MyTests.D06TestNG_ExtentReport@5c80cf32] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method signature="loginToOHRM_Fail()[pri:2, instance:com.MyTests.D06TestNG_ExtentReport@5c80cf32]" started-at="2024-11-11T21:29:36 IST" name="loginToOHRM_Fail" finished-at="2024-11-11T21:29:38 IST" duration-ms="1581" status="FAIL">
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase2()[pri:0, instance:com.MyTests.D07ListnersDemo@4bdeaabb]" started-at="2024-11-15T21:57:21 IST" name="testCase2" finished-at="2024-11-15T21:57:21 IST" duration-ms="26" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -37,7 +26,7 @@ at org.testng.Assert.fail(Assert.java:111)
 at org.testng.Assert.failNotEquals(Assert.java:1578)
 at org.testng.Assert.assertTrue(Assert.java:57)
 at org.testng.Assert.assertTrue(Assert.java:67)
-at com.MyTests.D06TestNG_ExtentReport.loginToOHRM_Fail(D06TestNG_ExtentReport.java:59)
+at com.MyTests.D07ListnersDemo.testCase2(D07ListnersDemo.java:18)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -71,26 +60,15 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginToOHRM_Fail -->
-        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.MyTests.D06TestNG_ExtentReport@5c80cf32]" started-at="2024-11-11T21:29:38 IST" name="afterMethod" finished-at="2024-11-11T21:29:38 IST" duration-ms="12" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=loginToOHRM_Fail status=FAILURE method=D06TestNG_ExtentReport.loginToOHRM_Fail()[pri:2, instance:com.MyTests.D06TestNG_ExtentReport@5c80cf32] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method signature="loginToOHRM_Skip()[pri:3, instance:com.MyTests.D06TestNG_ExtentReport@5c80cf32]" started-at="2024-11-11T21:29:38 IST" name="loginToOHRM_Skip" finished-at="2024-11-11T21:29:38 IST" duration-ms="21" status="SKIP">
+        </test-method> <!-- testCase2 -->
+        <test-method signature="testCase3()[pri:0, instance:com.MyTests.D07ListnersDemo@4bdeaabb]" started-at="2024-11-15T21:57:21 IST" name="testCase3" finished-at="2024-11-15T21:57:21 IST" duration-ms="10" status="SKIP">
           <exception class="org.testng.SkipException">
             <message>
-              <![CDATA[Skipping the test for testing purpose]]>
+              <![CDATA[Skipping this test]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.testng.SkipException: Skipping the test for testing purpose
-at com.MyTests.D06TestNG_ExtentReport.loginToOHRM_Skip(D06TestNG_ExtentReport.java:66)
+              <![CDATA[org.testng.SkipException: Skipping this test
+at com.MyTests.D07ListnersDemo.testCase3(D07ListnersDemo.java:22)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -124,23 +102,12 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           </exception> <!-- org.testng.SkipException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginToOHRM_Skip -->
-        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.MyTests.D06TestNG_ExtentReport@5c80cf32]" started-at="2024-11-11T21:29:38 IST" name="afterMethod" finished-at="2024-11-11T21:29:38 IST" duration-ms="12" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=loginToOHRM_Skip status=SKIP method=D06TestNG_ExtentReport.loginToOHRM_Skip()[pri:3, instance:com.MyTests.D06TestNG_ExtentReport@5c80cf32] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.MyTests.D06TestNG_ExtentReport@5c80cf32]" started-at="2024-11-11T21:29:38 IST" name="afterTest" finished-at="2024-11-11T21:29:39 IST" duration-ms="989" status="PASS">
+        </test-method> <!-- testCase3 -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.MyTests.D07ListnersDemo@4bdeaabb]" started-at="2024-11-15T21:57:21 IST" name="afterTest" finished-at="2024-11-15T21:57:21 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-      </class> <!-- com.MyTests.D06TestNG_ExtentReport -->
+      </class> <!-- com.MyTests.D07ListnersDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

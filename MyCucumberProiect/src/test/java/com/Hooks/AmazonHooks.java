@@ -10,7 +10,7 @@ import static com.StepDef.S06AmazonSearch.driver;
 import java.time.Duration;
 
 public class AmazonHooks {
-	@Before
+	//@Before
 	public void launchAmazon()
 	{
 		driver = new ChromeDriver();
@@ -20,7 +20,7 @@ public class AmazonHooks {
 	    driver.get("https://www.amazon.in/");
 	}
 	
-	@After
+	//@After
 	public void closeBrowser()
 	{
 		driver.close();
