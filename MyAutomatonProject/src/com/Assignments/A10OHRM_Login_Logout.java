@@ -53,7 +53,7 @@ public class A10OHRM_Login_Logout {
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");;
+		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 	}
 
 	@AfterTest

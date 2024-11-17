@@ -1175,3 +1175,182 @@
 2024-11-13 22:22:26,331 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
 2024-11-13 22:22:26,332 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-11-13 22:22:26,333 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2024-11-15 20:07:06,850 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-15 20:22:04,634 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:22:04,634 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:22:04,639 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:22:04,645 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2024-11-15 20:24:17,392 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:24:17,392 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:24:17,394 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:24:17,397 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2024-11-15 20:24:44,169 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:24:44,169 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:24:44,171 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:24:44,172 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2024-11-15 20:25:16,361 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:25:16,361 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:25:16,364 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:25:16,366 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2024-11-15 20:25:42,385 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:25:42,385 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:25:42,387 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:25:42,388 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2024-11-15 20:26:13,175 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:26:13,175 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:26:13,177 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:26:13,178 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2024-11-15 20:26:52,727 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:26:52,727 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:26:52,728 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:26:52,731 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2024-11-15 20:31:21,332 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:31:21,332 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:31:21,337 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:31:21,340 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-15 20:31:33,980 [Worker-15: Launching F07Registration.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:31:33,981 [Worker-15: Launching F07Registration.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:31:33,985 [Worker-15: Launching F07Registration.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:31:33,987 [Worker-15: Launching F07Registration.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-15 20:32:24,407 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:32:24,407 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:32:24,412 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:32:24,413 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2024-11-15 20:33:02,371 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:33:02,372 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:33:02,374 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:33:02,374 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-15 20:33:35,865 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:33:35,866 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:33:35,867 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:33:35,868 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2024-11-15 20:36:33,693 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:36:33,693 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:36:33,695 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:36:33,696 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2024-11-15 20:36:49,426 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:36:49,426 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:36:49,429 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:36:49,430 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2024-11-15 20:39:24,505 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:39:24,505 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:39:24,506 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:39:24,507 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2024-11-15 20:43:54,403 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:43:54,403 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:43:54,406 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:43:54,407 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-15 20:46:38,327 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:46:38,327 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:46:38,329 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:46:38,329 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-15 20:48:55,504 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:48:55,504 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:48:55,505 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:48:55,506 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-15 20:50:08,858 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:50:08,858 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:50:08,860 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:50:08,860 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-15 20:50:35,826 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:50:35,827 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:50:35,828 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:50:35,828 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-15 20:52:05,037 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:52:05,038 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:52:05,039 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:52:05,040 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-15 20:52:47,185 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:52:47,185 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:52:47,186 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:52:47,187 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-15 20:53:27,067 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:53:27,067 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:53:27,069 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:53:27,069 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-15 20:53:52,347 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:53:52,347 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:53:52,348 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:53:52,349 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-11-15 20:55:15,587 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:55:15,591 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:55:15,593 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:55:15,594 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2024-11-15 20:57:40,734 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:57:40,734 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:57:40,735 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:57:40,736 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2024-11-15 20:58:39,469 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:58:39,470 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:58:39,471 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:58:39,472 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2024-11-15 20:58:45,592 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:58:45,593 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:58:45,594 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:58:45,595 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2024-11-15 20:59:23,447 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:59:23,447 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:59:23,449 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:59:23,450 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2024-11-15 20:59:51,525 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:59:51,525 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 20:59:51,526 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 20:59:51,528 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2024-11-15 21:00:02,525 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:00:02,526 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 21:00:02,558 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:00:02,565 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2024-11-15 21:00:36,915 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:00:36,915 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 21:00:36,917 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:00:36,918 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2024-11-15 21:00:52,025 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:00:52,026 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 21:00:52,027 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:00:52,028 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2024-11-15 21:00:59,489 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:00:59,490 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 21:00:59,491 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:00:59,492 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2024-11-15 21:03:59,377 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:03:59,377 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 21:03:59,378 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:03:59,379 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2024-11-15 21:04:02,866 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:04:02,866 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 21:04:02,867 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:04:02,868 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2024-11-15 21:05:04,036 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:05:04,036 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 21:05:04,038 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:05:04,039 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2024-11-15 21:05:27,922 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:05:27,923 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 21:05:27,925 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:05:27,926 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2024-11-15 21:07:16,867 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:07:16,868 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyCucumberProiect\src\main\resources
+2024-11-15 21:07:16,869 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-15 21:07:16,870 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2024-11-15 21:49:19,346 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\main\resources
+2024-11-15 21:49:19,348 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\test\resources
+2024-11-15 21:50:35,475 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\main\resources
+2024-11-15 21:50:35,477 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\test\resources
+2024-11-15 21:50:38,252 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\main\resources
+2024-11-15 21:50:38,254 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\test\resources
+2024-11-15 21:51:40,123 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\main\resources
+2024-11-15 21:51:40,124 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\test\resources
+2024-11-15 21:52:05,589 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\main\resources
+2024-11-15 21:52:05,591 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\test\resources
+2024-11-15 21:55:11,273 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\main\resources
+2024-11-15 21:55:11,274 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\test\resources
+2024-11-15 21:55:22,012 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\main\resources
+2024-11-15 21:55:22,014 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\test\resources
+2024-11-15 21:56:58,500 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\main\resources
+2024-11-15 21:56:58,503 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\test\resources
+2024-11-15 21:57:01,600 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\main\resources
+2024-11-15 21:57:01,601 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\test\resources
+2024-11-15 22:44:13,761 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\main\resources
+2024-11-15 22:44:13,762 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\StarAgile\Demos\SA2407054\MyMavenProject\src\test\resources
+2024-11-16 20:36:18,104 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-17 08:55:28,779 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
